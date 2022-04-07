@@ -172,4 +172,4 @@ Project Link: [https://github.com/mattv8/ffmpeg-watchfolder](https://github.com/
 [license-shield]: https://img.shields.io/github/license/mattv8/ffmpeg-watchfolder.svg?style=for-the-badge
 [license-url]: https://github.com/mattv8/ffmpeg-watchfolder/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/dangahagan
+[linkedin-url]: https://linkedin.com/in/mattvisnovsky
