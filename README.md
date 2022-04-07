@@ -92,27 +92,27 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 3. Start the script as a service with PM2
-*To install the process as a service, we'll use PM2
+* To install the process as a service, we'll use PM2
 	```sh
   npm install -g pm2
 	pm2 install pm2-server-monit
   ```
 
-*Install the encoder as a service with:
+* Install the encoder as a service with:
 	```sh
   pm2 start /root/ffmpeg-watchfolder/app.js -i 1 --watch
 	pm2 startup
 	pm2 save
   ```
 
-*Some helpful PM2 commands:
+* Some helpful PM2 commands:
 	```sh
   pm2 status
 	pm2 stop app.js
 	pm2 start app.js
   ```
 
-*To independently run the encoder process, use:
+* To independently run the encoder process, use:
 	```sh
   node ~/ffmpeg-watchfolder/app.js
   ```
