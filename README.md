@@ -142,8 +142,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@dangahagan](https://twitter.com/dangahagan) - dangahagan@protonmail.com
-
 Project Link: [https://github.com/mattv8/ffmpeg-watchfolder](https://github.com/mattv8/ffmpeg-watchfolder)
 
 
@@ -151,6 +149,7 @@ Project Link: [https://github.com/mattv8/ffmpeg-watchfolder](https://github.com/
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
+* Dan Gahagan - [@dangahagan](https://twitter.com/dangahagan), the original author of this script
 * Windows Media Player - For not playing HEVC and HEIF
 * FFmpeg for handling everything
 
