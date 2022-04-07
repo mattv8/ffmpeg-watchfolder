@@ -85,6 +85,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
+   cd ~ #change to your home directory
    git clone https://github.com/mattv8/ffmpeg-watchfolder
    ```
 2. Install NPM packages
@@ -127,7 +128,7 @@ This is an example of how to list things you need to use the software and how to
 
 2. Run the app
     ```sh
-    node app
+    node ~/ffmpeg-watchfolder/app.js
     ```
 3. Copy any files that need to be converted into the 'input' folder. The converted files will be placed in the 'output' folder.
 
