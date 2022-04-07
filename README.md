@@ -15,7 +15,7 @@
   <h3 align="center">ffmpeg-watchfolder</h3>
 
   <p align="center">
-    Automatically convert video files dropped into a folder using ffmpeg.
+    Automatically and persistently convert video files and HEIC images dropped into a folder using ffmpeg.
     <br />
     <a href="https://github.com/mattv8/ffmpeg-watchfolder"><strong>Explore the docs »</strong></a>
     <br />
